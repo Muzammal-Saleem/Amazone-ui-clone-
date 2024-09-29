@@ -1,0 +1,58 @@
+.panal{
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    height: 30px;
+    align-items: center;
+    justify-content:space-evenly;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.panal_all{
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.nav_options a{
+    text-decoration:none;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 0.85rem;
+}
+.nav_options{
+    width: 70%;
+}
+.game_store{
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 700px;
+}
+/*hero section*/
+.hero_section{
+    background-image: url("hero_image.jpg");
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero_msg{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 90%;
+    margin-bottom: 25px;
+    
+
+}
+.hero_msg a{
+    text-decoration: none;
+    color: #007185;
+}
